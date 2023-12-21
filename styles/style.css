@@ -1,7 +1,7 @@
 @import url('https://fonts.cdnfonts.com/css/ubuntu');
 :root {
-          --bg-color: rgb(20, 20, 20);
-          --card-color: rgb(23, 23, 23);
+          --bg-color: rgb(7, 7, 7);
+          --card-color: rgb(10, 10, 10);
      }
       body {
           background-color: var(--bg-color);
@@ -199,7 +199,7 @@
           font-size: 60px;
           margin: 0;
           font-weight: 700;
-          background: -webkit-linear-gradient(rgb(0, 140, 255), rgb(0, 193, 241));
+          background: -webkit-linear-gradient(rgb(113, 72, 181), rgb(64, 0, 173));
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
      }
